@@ -1,5 +1,5 @@
-# Sass, jQuery & Webpack Boilerplate
-Getting Started with Sass, jQuery and Webpack
+# Sass, jQuery, Handlebars & Webpack Boilerplate
+Getting Started with Sass, jQuery, Handlebars and Webpack
 
 ## Getting Started
 
