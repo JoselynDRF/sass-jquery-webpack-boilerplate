@@ -1,8 +1,7 @@
 import $ from 'jquery';
-import exampleModule from './module';
+import example from './example';
 import './../scss/styles.scss';
 
 $(function () {
-  console.log($('#element').text());
-  exampleModule();
+  example();
 });
